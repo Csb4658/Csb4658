@@ -54,7 +54,7 @@ Follow these steps to set up and run the Employee Salary Prediction application:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/csb4658/employee-salary-prediction.git](https://github.com/csb4658/employee-salary-prediction.git)
+    git clone [https://github.com/Csb4658/employee-salary-prediction.git](https://github.com/Csb4658/employee-salary-prediction.git)
     cd employee-salary-prediction
     ```
 
